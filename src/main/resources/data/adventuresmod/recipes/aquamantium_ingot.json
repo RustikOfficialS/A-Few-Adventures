@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "Z": {
+      "item": "adventuresmod:aquamantium_shard"
+    },
+    "#": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "V": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "XYZ",
+    "#V#",
+    "ZYX"
+  ],
+  "result": {
+    "item": "adventuresmod:aquamantium_ingot"
+  }
+}

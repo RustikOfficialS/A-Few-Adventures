@@ -1,0 +1,34 @@
+{
+  "item.adventuresmod.green_refracting_crystal": "Green Refracting Crystal",
+  "item.adventuresmod.sea_amulet": "Sea Amulet",
+  "item.adventuresmod.blood_scroll": "Blood Scroll",
+  "item.adventuresmod.aquarium_ring": "Aquarium Ring",
+  "item.adventuresmod.astral_stone": "Astral Stone",
+  "item.adventuresmod.astral_cluster": "Astral Cluster",
+  "item.adventuresmod.flask_of_blaze_powder": "Flask of Blaze Powder",
+  "item.adventuresmod.shard_of_mica": "Shard of Mica",
+
+  "item.adventuresmod.eve": "Eve",
+  "item.adventuresmod.dark_blade": "Dark Blade",
+  "item.adventuresmod.sky_punisher": "Sky Punisher",
+  "item.adventuresmod.frostmourne": "Frostmourne",
+
+  "item.adventuresmod.knife": "Knife",
+  "item.adventuresmod.amethyst_magic_sword": "Amethyst Magic Sword",
+  "item.adventuresmod.amethyst_magic_pickaxe": "Amethyst Magic Pickaxe",
+  "item.adventuresmod.amethyst_magic_axe": "Amethyst Magic Axe",
+
+  "block.adventuresmod.crystal_lamp": "Crystal Lamp",
+  "block.adventuresmod.ancient_temple_bricks": "Ancient Temple Bricks",
+  "block.adventuresmod.ancient_temple_stone": "Ancient Temple Stone",
+  "block.adventuresmod.ancient_temple_keyhole": "Ancient Temple Keyhole",
+  "block.adventuresmod.mica_block": "Mica Block",
+  "block.adventuresmod.mica": "Mica",
+
+  "item.adventuresmod.ancient_key": "Ancient Key",
+
+  "item.adventuresmod.aquamantium_ingot": "Aquamantium Ingot",
+  "item.adventuresmod.aquamantium_shard": "Aquamantium Shard",
+  "item.adventuresmod.aquamantium_helmet": "Aquamantium Helmet"
+
+}
